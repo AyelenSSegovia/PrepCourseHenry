@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Repositorio de prueba bootcamp henry
+pRUEBA DE COMO CREAR UN REPOSITORIO Y CLONARLO DESDE GITHUB A MI COMPUTADORA
